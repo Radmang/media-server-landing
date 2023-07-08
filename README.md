@@ -1,4 +1,4 @@
-# Media Server Landing
+# Media Server Landing Page
 
 Edit links to forward to your respective domain/ip address, enjoy!
 
